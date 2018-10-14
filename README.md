@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-A responsive portfolio website.
+# Portfolio Website
+A very cool website!
